@@ -1,5 +1,5 @@
 # Deploying WordPress on Elastic Beanstalk
-These instructions were tested with WordPress 4.6.1
+These instructions were tested with WordPress 4.8.1
 
 ## Install the EB CLI
 
