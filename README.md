@@ -30,7 +30,7 @@ If you don't have pip, follow the instructions [here](http://docs.aws.amazon.com
 
 1. Download WordPress.
 
-        ~$ curl https://wordpress.org/wordpress-4.6.1.tar.gz -o wordpress.tar.gz
+        ~$ curl https://wordpress.org/wordpress-4.8.1.tar.gz -o wordpress.tar.gz
 
 2. Download the configuration files in this repository.
 
